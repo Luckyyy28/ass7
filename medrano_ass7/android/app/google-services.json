@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "235964469523",
+    "project_id": "favoriteplace-de820",
+    "storage_bucket": "favoriteplace-de820.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235964469523:android:cb4b2f32153267d7b88ae6",
+        "android_client_info": {
+          "package_name": "com.example.medran"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChpUsHwBJlXMKXFEtshb_iPwSZKJT21UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235964469523:android:87f96b7387b60f0db88ae6",
+        "android_client_info": {
+          "package_name": "com.example.medrano_ass7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChpUsHwBJlXMKXFEtshb_iPwSZKJT21UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
